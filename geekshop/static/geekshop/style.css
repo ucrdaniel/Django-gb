@@ -81,13 +81,13 @@ html, body {
 	left: 1176px;
 }
 .basket {
-	display: block;
-	width: 23px;
-	height: 23px;	
-	background-image: url(img/basket.png);
-	position: absolute;
-	top: 63px;
-	left: 1210px;
+    display: block;
+    width: 23px;
+    height: 23px;
+    background-image: url(img/basket.png);
+    position: absolute;
+    top: 67px;
+    left: 1085px;
 }
 
 .clearfix:after {
@@ -543,7 +543,7 @@ html, body {
 
 .footer {
 	height: 384px;
-	width: 1169px;
+	width: 1340px;
 	background-color: #f7f7f7;
 	padding-left: 99px;
 	padding-right: 98px;
